@@ -1,24 +1,23 @@
 # Hi, I'm Jerome 👋
 
-### Java Full Stack Developer
+### Java Developer | Java Development
 
-I'm a Computer Science & Statistics student focused on building software with **Java, backend technologies, and full-stack development**.
+I'm a Computer Science & Statistics student building my skills in **Java, object-oriented programming, and software engineering**.
 
-### What I Work With
+### What I'm Learning
 
 * ☕ Java & Object-Oriented Programming
 * 🌱 Spring Boot
 * 🔌 REST APIs
 * 🗄️ SQL & PostgreSQL
-* 🌐 HTML, CSS & JavaScript
 * 🧪 Software Testing & QA
 * 🔧 Git & GitHub
 
-### Current Projects
+### What I'm Working On
 
-I'm currently building a **Digital Wallet & Transaction Management System** while developing smaller Java projects to strengthen my software engineering skills.
+I'm currently building a **Digital Wallet & Transaction Management System** while working on smaller Java projects and exercises to strengthen my programming fundamentals.
 
-I use GitHub to document my projects, experiments, and development journey.
+I use GitHub to document my projects, experiments, and progress as I develop my Java skills.
 
 ### Areas I'm Interested In
 
@@ -26,8 +25,8 @@ I use GitHub to document my projects, experiments, and development journey.
 
 ### Technologies
 
-`Java` `Spring Boot` `JavaScript` `HTML` `CSS` `SQL` `PostgreSQL` `Git` 
+`Java` `Spring Boot` `SQL` `PostgreSQL` `Git` `JUnit` `Selenium`
 
 ### Connect
 
-* [LinkedIn](https://www.linkedin.com/in/jeromeugwu)
+* [LinkedIn](https://linkedin.com/in/jeromeugwu)
