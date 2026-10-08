@@ -1,6 +1,6 @@
 # Hi, I'm Jerome 👋
 
-### Java Developer | Java Development
+### Java Developer 
 
 I'm a Computer Science & Statistics student building my skills in **Java, object-oriented programming, and software engineering**.
 
