@@ -25,7 +25,7 @@ I use GitHub to document my projects, experiments, and progress as I develop my 
 
 ### Technologies
 
-`Java` `Spring Boot` `SQL` `PostgreSQL` `Git` `JUnit` `Selenium`
+`Java` `Spring Boot` `SQL` `PostgreSQL` `Git` `JUnit`
 
 ### Connect
 
