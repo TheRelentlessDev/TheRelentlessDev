@@ -2,7 +2,7 @@
 
 ### Java Developer 
 
-I'm a Computer Science & Statistics student building my skills in **Java, object-oriented programming, and software engineering**.
+I'm a Computer Science & Statistics Undergraduate, building my skills in **Java, object-oriented programming, and software engineering**.
 
 ### What I'm Learning
 
