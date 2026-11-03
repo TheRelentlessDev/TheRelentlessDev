@@ -4,17 +4,16 @@ Computer Science & Statistics undergraduate focused on building web applications
 
 ## Technologies & Tools
 
-- **Languages:** Java, JavaScript, HTML, CSS
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Java, Spring Boot, REST APIs
-- **Databases:** PostgreSQL, SQL
+- **Languages:** Java, JavaScript, SQL
+- **Frontend:** HTML, CSS, React
+- **Backend:** Spring Boot, REST APIs
+- **Database:** PostgreSQL
 - **Testing:** JUnit, Software Testing & QA
-- **Tools:** Git, GitHub, IntelliJ IDEA
+- **Tools:** Git, GitHub, IntelliJ IDEA, Postman, pgAdmin
 
 ## Areas of Interest
 
 - Full-Stack Development
-- Backend Engineering
 - Software Architecture
 - Distributed Systems
 - Cloud Infrastructure
