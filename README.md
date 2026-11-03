@@ -1,32 +1,22 @@
-# Hi, I'm Jerome 👋
+# Java Developer
 
-### Java Developer 
+Computer Science & Statistics undergraduate focused on Java development and software engineering.
 
-I'm a Computer Science & Statistics Undergraduate, building my skills in **Java, object-oriented programming, and software engineering**.
+## Technologies
 
-### What I'm Learning
+- Java
+- Spring Boot
+- SQL & PostgreSQL
+- Git & GitHub
+- JUnit
 
-* ☕ Java & Object-Oriented Programming
-* 🌱 Spring Boot
-* 🔌 REST APIs
-* 🗄️ SQL & PostgreSQL
-* 🧪 Software Testing & QA
-* 🔧 Git & GitHub
+## Interests
 
-### What I'm Working On
+- Backend Development
+- Distributed Systems
+- Cloud Infrastructure
+- AI Systems
 
-I'm currently building a **Digital Wallet & Transaction Management System** while working on smaller Java projects and exercises to strengthen my programming fundamentals.
+## Connect
 
-I use GitHub to document my projects, experiments, and progress as I develop my Java skills.
-
-### Areas I'm Interested In
-
-**Backend Development · Distributed Systems · Cloud Infrastructure · AI Systems**
-
-### Technologies
-
-`Java` `Spring Boot` `SQL` `PostgreSQL` `Git` `JUnit`
-
-### Connect
-
-* [LinkedIn](https://linkedin.com/in/jeromeugwu)
+[LinkedIn](https://linkedin.com/in/jeromeugwu)
