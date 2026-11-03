@@ -1,21 +1,23 @@
-# Java Developer
+# Full-Stack Developer
 
-Computer Science & Statistics undergraduate focused on Java development and software engineering.
+Computer Science & Statistics undergraduate focused on building web applications and developing skills across frontend and backend engineering.
 
-## Technologies
+## Technologies & Tools
 
-- Java
-- Spring Boot
-- SQL & PostgreSQL
-- Git & GitHub
-- JUnit
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Java, Spring Boot, REST APIs
+- **Databases:** PostgreSQL, SQL
+- **Testing:** JUnit, Software Testing & QA
+- **Tools:** Git, GitHub, IntelliJ IDEA
 
-## Interests
+## Areas of Interest
 
-- Backend Development
+- Full-Stack Development
+- Backend Engineering
+- Software Architecture
 - Distributed Systems
 - Cloud Infrastructure
-- AI Systems
 
 ## Connect
 
